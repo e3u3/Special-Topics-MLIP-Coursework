@@ -1,2 +1,3 @@
-# Special-Topics-MLIP-Coursework
-Assignments part of Machine Learning for Image Processing Coursework
+# ECE285- Special-Topics-Machine Learning for Image Processing - Coursework at UCSD
+
+Assignments part of MLIP Coursework (Fall'19)
