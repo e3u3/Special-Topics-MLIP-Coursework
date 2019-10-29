@@ -10,4 +10,4 @@ Assignment 3 - Transfer Learning
 
 Assignment 4 - Denoising ( Image Processing / ML)
 
-Project
+Project - Multi-object detection
