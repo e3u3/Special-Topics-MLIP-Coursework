@@ -11,3 +11,5 @@ Assignment 3 - Transfer Learning
 Assignment 4 - Denoising ( Image Processing / ML)
 
 Project - Multi-object detection
+
+### The assginment has been uploaded here with latex as pdf format from jupyter notebook.
